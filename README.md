@@ -42,3 +42,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 版权相关
 素材版权均鹰角所有，此程序仅供学习使用，请勿商用。
+
+## 开源协议
+
+暂定开源协议为GPLv3.0
